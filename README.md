@@ -1,4 +1,6 @@
 # Info
+jQuery inViewChecker works in Animate CSS
+Download animate.css from here: https://daneden.github.io/animate.css/
 
 ## Usage
 First, add the following meta viewport:
