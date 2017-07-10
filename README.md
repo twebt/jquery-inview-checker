@@ -1,9 +1,9 @@
 # Info
-jQuery inViewChecker works in Animate CSS
+jQuery inViewChecker works in Animate CSS<br>
 Download animate.css from here: https://daneden.github.io/animate.css/
 
 ## Usage
-First, add the following meta viewport:
+First, add the following:
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <script src="javascript/jquery/jquery.inViewChecker.js" type="text/javascript"></script>
