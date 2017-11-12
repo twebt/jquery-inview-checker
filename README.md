@@ -11,6 +11,14 @@ First, add the following:
 <link href="javascript/main.js" rel="stylesheet">
 <link href="javascript/main.css" rel="stylesheet">
 ```
+
+Your element should contains "data-animation" tag, which is the name of the animation as CSS class.
+'data-delay' and 'data-duration' are extra HTML tags.
+
+```html
+<div class="branding" data-animation="fadeIn" data-delay="0.5s" data-duration="1s">
+
+```
 Then, initialize the Viewport:
 ```js
 $(function() {
