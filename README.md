@@ -12,7 +12,7 @@ First, add the following:
 <link href="javascript/main.css" rel="stylesheet">
 ```
 
-Your element should contains "data-animation" tag, which is the name of the animation as CSS class.
+Your element should contains "data-animation" tag, which is the name of the animation as CSS class.<br>
 'data-delay' and 'data-duration' are extra HTML tags.
 
 ```html
